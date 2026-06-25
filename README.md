@@ -1,5 +1,7 @@
 # 📊 Dashboard Executivo de Rollout de ERP
 
+![Demonstração do Dashboard](dashboard.png)
+
 ## 📝 Descrição do Projeto
 Este projeto consiste no desenvolvimento de um dashboard estratégico e interativo no Power BI para gerenciar, acompanhar e garantir a visibilidade sobre o processo de implantação (rollout) de um novo sistema ERP nas filiais da empresa. 
 
